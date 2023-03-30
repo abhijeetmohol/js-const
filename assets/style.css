@@ -1,0 +1,9 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+h1{
+    background: linear-gradient(to top,#fb0909,#277ace,#05ecaf,#e607b6,#afde04);
+    padding: 30px;
+    text-align: center;
+}
